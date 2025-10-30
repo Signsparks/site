@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Newsletters"
+    url: /Newsletters/
+  - title: "Livestreams"
+    url: /Livestreams/
+  - title: "Podcasts"
+    url: /Podcasts/
+  - title: "Tweets"
+    url: /Tweets/
