@@ -10,5 +10,3 @@ I am an **aspiring grad student** at University. My interests are in the area of
 - Project 1
 - Project 2
 - Project 3
-
-<script async data-uid="0eaff339dc" src="https://signs-sparks.kit.com/0eaff339dc/index.js"></script>
