@@ -7,3 +7,5 @@ main:
     url: /Podcasts/
   - title: "Tweets"
     url: /Tweets/
+  - title: "Calendar"
+    url: /Calendar/
